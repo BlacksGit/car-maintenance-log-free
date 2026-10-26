@@ -31,3 +31,7 @@ Keep tires at the right pressure. Do easy jobs yourself (wipers, cabin filter, a
 The **Car Maintenance Log and Expense Tracker** has the glovebox info sheet, service schedule, service log, fuel and MPG log, yearly cost summary and repair fund: https://payhip.com/b/K9M8O ($6)
 
 More guides: https://patreon.com/123black
+
+## Free calculator
+
+See what your car really costs per month and per mile, including the value it loses each year: [true cost of owning a car](https://blacksgit.github.io/car-cost/).

@@ -28,6 +28,6 @@ Keep tires at the right pressure. Do easy jobs yourself (wipers, cabin filter, a
 
 ## Want the printable planner?
 
-The **Car Maintenance Log and Expense Tracker** has the glovebox info sheet, service schedule, service log, fuel and MPG log, yearly cost summary and repair fund: https://spectre5.gumroad.com/l/PLACEHOLDER ($6)
+The **Car Maintenance Log and Expense Tracker** has the glovebox info sheet, service schedule, service log, fuel and MPG log, yearly cost summary and repair fund: https://payhip.com/b/K9M8O ($6)
 
 More guides: https://patreon.com/123black
